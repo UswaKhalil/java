@@ -1,0 +1,3 @@
+Conversion: Fahrenheit to Celsius, Input: 45, Output: 7.22
+Conversion: Kelvin to Fahrenheit, Input: 56, Output: 
+Conversion: Kelvin to Fahrenheit, Input: 56, Output: -358.87

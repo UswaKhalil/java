@@ -1,0 +1,7 @@
+Conversion: Kelvin to Celsius, Input: 77, Output: -196.15
+Conversion: Kelvin to Celsius, Input: 77, Output: -196.15
+Conversion: Kelvin to Celsius, Input: 34, Output: -239.15
+Conversion: Kelvin to Fahrenheit, Input: 34, Output: -398.47
+Conversion: Kelvin to Celsius, Input: 56, Output: -217.15
+Conversion: Kelvin to Celsius, Input: 56, Output: -217.15
+Conversion: Celsius to Fahrenheit, Input: 56, Output: 132.80
